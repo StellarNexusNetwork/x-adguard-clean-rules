@@ -8,9 +8,9 @@
 
 将下面这个链接添加到 AdGuard 的“自定义过滤器”中：
 
-···URL
+```URL
 https://raw.githubusercontent.com/StellarNexusNetwork/x-adguard-clean-rules/refs/heads/main/rules.txt
-···
+```
 
 一般路径是：
 
