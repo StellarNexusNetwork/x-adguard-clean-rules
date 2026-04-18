@@ -18,7 +18,11 @@ https://raw.githubusercontent.com/StellarNexusNetwork/x-adguard-clean-rules/refs
 
 添加后保存即可。
 
+#### 如果您不希望遇到因规则更新而导致的性能下降，请手动复制文件内容到“用户过滤器”内！
+
 ### 使用零宽字符清理脚本
+
+部分广告机器人会在内容里添加特定不可见字符使匹配规则失效，所以我们编写了这个脚本！
 
 先安装支持 UserScript 的扩展，例如 Tampermonkey，然后导入下面这个脚本：
 
