@@ -39,4 +39,4 @@ https://raw.githubusercontent.com/StellarNexusNetwork/x-adguard-clean-rules/refs
 
 如果发现漏网内容、误杀，或者新的规避写法，可以提交 Issue。
 
-懒猫随缘更新规则，~~谁给个gpt plus催下也不是不行~~
+懒猫随缘更新规则
