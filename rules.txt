@@ -16,6 +16,8 @@ x.com##div[data-testid="cellInnerDiv"]:has([data-testid="tweetText"]:contains(/�
 
 x.com##div[data-testid="cellInnerDiv"]:has([data-testid="tweetText"]:contains(/找\S{1,6}[mM]|找\S{1,6}[sS]/))
 
+x.com##div[data-testid="cellInnerDiv"]:has([data-testid="tweetText"]:contains(/推特.*第一骚|刷了半天的X.*就她的主页能打了|线下sao货没人比她sao|我推特上面认识的炮友|我约过她真实极品|比她好看的没她骚.*比她骚的没她好看|她好涩我不行了|线下我就曰过.*这个骚货/))
+
 
 
 ! 昵称
