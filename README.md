@@ -1,6 +1,6 @@
 # x-adguard-clean-rules
 
-适用于 x.com 的 AdGuard 自定义过滤规则，以及配套的零宽字符清理脚本。
+适用于 x.com 的 AdGuard 自定义过滤规则，用于过滤评论区的机器人，以及配套的零宽字符清理脚本。
 
 ## 使用方法
 
