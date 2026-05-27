@@ -21,7 +21,7 @@ x.com##div[data-testid="cellInnerDiv"]:has([data-testid="tweetText"]:contains(/�
 
 
 ! 昵称
-x.com##div[data-testid="cellInnerDiv"]:has([data-testid="User-Name"]:contains(/同城|线下|男\s*无偿|男\s*有偿|破处|免费月|离异找能满足的|谁来喝|刚分手想报复|找刺激|私处好痒|骚气四射|咪咪教练|母狗|淫娃|处男免费|寻固炮|主页进群|点我头像选人/))
+x.com##div[data-testid="cellInnerDiv"]:has([data-testid="User-Name"]:contains(/同城|线下|男\s*无偿|男\s*有偿|破处|免费月|离异找能满足的|谁来喝|刚分手想报复|找刺激|私处好痒|骚气四射|咪咪教练|母狗|淫娃|处男免费|寻固炮|主页进群|点我头像选人|寻固炮/))
 
 ! 特定昵称
 x.com##div[data-testid="cellInnerDiv"]:has([data-testid="User-Name"]:has(img[alt*="💊"]):contains(催):contains(春):contains(迷))
